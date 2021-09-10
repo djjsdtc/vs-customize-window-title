@@ -19,7 +19,7 @@ namespace ErwinMayerLabs.RenameVSWindowTitle.Properties {
     // class via a tool like ResGen or Visual Studio.
     // To add or remove a member, edit your .ResX file then rerun ResGen
     // with the /str option, or rebuild your VS project.
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "16.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "17.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     internal class Resources {
@@ -83,7 +83,7 @@ namespace ErwinMayerLabs.RenameVSWindowTitle.Properties {
         ///}
         ///
         ////* HTML5 display definitions
-        ///   ============== [rest of string was truncated]&quot;;.
+        ///   ==================================== [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string normalize {
             get {
@@ -97,7 +97,7 @@ namespace ErwinMayerLabs.RenameVSWindowTitle.Properties {
         ///
         ///function selectText(obj) { // adapted from Denis Sadowski (via StackOverflow.com)
         ///    var range;
-        ///    if (document [rest of string was truncated]&quot;;.
+        ///    if (document.sele [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string script {
             get {
@@ -139,7 +139,11 @@ namespace ErwinMayerLabs.RenameVSWindowTitle.Properties {
         ///    font-size: 10pt;
         ///    line-height: 22px;
         ///    text-align: left;
-        /// [rest of string was truncated]&quot;;.
+        ///}
+        ///
+        ///p {
+        ///    font-size: 11pt;
+        ///    m [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string style {
             get {
